@@ -4,11 +4,11 @@
 
 If you are a git user, you can install the theme by cloning the repo:
 
-    $ git clone https://github.com/joaonery/windows-terminal.git
+    $ git clone https://github.com/getomni/windows-terminal.git
 
 #### Install manually
 
-Download using the [GitHub .zip download](https://github.com/joaonery/windows-terminal/archive/main.zip) option and unzip them.
+Download using the [GitHub .zip download](https://github.com/getomni/windows-terminal/archive/main.zip) option and unzip them.
 
 #### Activating theme
 

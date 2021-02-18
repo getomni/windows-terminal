@@ -32,7 +32,7 @@ All instructions can be found at [INSTALL.md](./INSTALL.md).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/joaonery/windows-terminal/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/getomni/windows-terminal/graphs/contributors).
 
 | [![João Nery](https://github.com/joaonery.png?size=100)](https://github.com/joaonery) |
 | ------------------------------------------------------------------------------------------------ |
